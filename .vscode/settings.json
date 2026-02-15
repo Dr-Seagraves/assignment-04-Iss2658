@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd 'c:\\\\Users\\\\isidr\\\\Statistics II\\\\assignment-04-Iss2658'; & '\\.\\\\\\.venv\\\\Scripts\\\\python\\.exe' assignment04_regression\\.py$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
